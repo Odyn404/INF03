@@ -66,7 +66,7 @@
         </main>
 
         <footer>
-            <p>Stronę wykonał: <a href="https://github.com/Odyn404" target="_blank" style="text-decoration: none;color: unset;">Odyn404</a></p>
+            <p>Stronę wykonał: <a href="https://useme.com/pl/roles/contractor/odyn404error,461613/" target="_blank" style="text-decoration: none;color: unset;">Odyn404</a></p>
         </footer>
     </body>
 </html>
