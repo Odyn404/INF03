@@ -1,0 +1,4 @@
+Kwerenda 1: SELECT nazwaPliku, podpis FROM zdjecia ORDER BY podpis;
+Kwerenda 2: SELECT cel, dataWyjazdu FROM wycieczki WHERE dostepna = 0;
+Kwerenda 3: SELECT cel, cena, podpis FROM zdjecia JOIN wycieczki ON zdjecia.id = wycieczki.zdjecia_id WHERE cena > 1300;
+Kwerenda 4: DROP TABLE uzytkownik;
