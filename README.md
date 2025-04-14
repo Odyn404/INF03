@@ -2,13 +2,13 @@
 
 ### 📅 2024
 - #### 🧊 Styczeń
-  - <img src="[PHP](https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000)" alt="PHP" width="25" style="vertical-align: middle; margin-right: 6px;" /> **Biuro Podróży** – [INF.03-06-24.01-SG](INF.03-06-24.01-SG)
+  - ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =16x16) **Biuro Podróży** – [INF.03-06-24.01-SG](INF.03-06-24.01-SG)
 - #### ☀️ Czerwiec
   - 🛠️ **W trakcie...**
 
 ### 📅 2023
 - #### 🧊 Styczeń
-  - <img src="[JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)" alt="JavaScript" width="20" style="vertical-align: middle; margin-right: 6px;" /> **Malarz** – [INF.03-01-23.01-SG](INF.03-01-23.01-SG)
+  - ![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =16x16) **Malarz** – [INF.03-01-23.01-SG](INF.03-01-23.01-SG)
 - #### ☀️ Czerwiec
   - 🛠️ **W trakcie...**
 
@@ -16,4 +16,4 @@
 - #### 🧊 Styczeń
   - 🛠️ **W trakcie...**
 - #### ☀️ Czerwiec
-  - <img src="[PHP](https://img.icons8.com/?size=100&id=ew5sPNbvz6Dw&format=png&color=000000)" alt="PHP" width="25" style="vertical-align: middle; margin-right: 6px;" /> **Wędkowanie** – [INF.03-01-22.06-SG](INF.03-01-22.06-SG)
+  - ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =16x16) **Wędkowanie** – [INF.03-01-22.06-SG](INF.03-01-22.06-SG)
