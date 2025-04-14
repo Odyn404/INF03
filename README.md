@@ -2,7 +2,7 @@
 
 ### 📅 Rok 2024
 #### 🧊 Styczeń
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" style="position: absolute; top: 5;"/> **Biuro Podróży** – INF.03-06-24.01-SG
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" style="position: absolute; top: 10;"/> **Biuro Podróży** – INF.03-06-24.01-SG
 #### ☀️ Czerwiec
 - 🛠️ **W trakcie...**
 
@@ -16,4 +16,4 @@
 #### 🧊 Styczeń
 - 🛠️ **W trakcie...**
 #### ☀️ Czerwiec
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" style="position: absolute; top: 5;"/> **Wędkowanie** – INF.03-01-22.06-SG
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" style="position: absolute; top: 10;"/> **Wędkowanie** – INF.03-01-22.06-SG
