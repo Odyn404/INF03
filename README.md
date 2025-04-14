@@ -2,18 +2,18 @@
 
 - ### Rok 2024
   - #### Styczeń
-    - **JS** Biuro Podróży – [INF.03-06-24.01-SG](INF.03-06-24.01-SG)
+    - ** JS ---->** Biuro Podróży – [INF.03-06-24.01-SG](INF.03-06-24.01-SG)
   - #### Czerwiec
-    - 🛠️ **W trakcie...**
+    - 🛠️ ** W trakcie...**
 
 - ### Rok 2023
   - #### Styczeń
-    -  **PHP** Malarz – [INF.03-01-23.01-SG](INF.03-01-23.01-SG)
+    -  ** PHP ---->** Malarz – [INF.03-01-23.01-SG](INF.03-01-23.01-SG)
   - #### Czerwiec
-  - 🛠️ **W trakcie...**
+  - 🛠️ ** W trakcie...**
 
 - ### Rok 2022
   - #### Styczeń
-    - 🛠️ **W trakcie...**
+    - 🛠️ ** W trakcie...**
   - #### Czerwiec
-    - **JS** Wędkowanie – [INF.03-01-22.06-SG](INF.03-01-22.06-SG) 
+    - ** JS ---->**  Wędkowanie – [INF.03-01-22.06-SG](INF.03-01-22.06-SG) 
