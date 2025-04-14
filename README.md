@@ -16,4 +16,4 @@
 - #### 🧊 Styczeń
   - 🛠️ **W trakcie...**
 - #### ☀️ Czerwiec
-  - <img src="https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000" alt="PHP" width="25"/> **Wędkowanie** – [INF.03-01-22.06-SG](INF.03-01-22.06-SG)
+  - <img src="https://img.icons8.com/?size=100&id=ew5sPNbvz6Dw&format=png&color=000000" alt="PHP" width="25"/> **Wędkowanie** – [INF.03-01-22.06-SG](INF.03-01-22.06-SG)
