@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Rejestracja</title>
+        <link rel="stylesheet" href="styl.css">
+    </head>
+    <body>
+        <header>
+            <h1>Formularz rejestracyjny konferencji <em><strong>Nasze Kwiaty</strong></em></h1>
+        </header>
+
+        <main>
+            <form>
+                <div id="form1" class="form-block active">
+                    <h2>Dane osobowe</h2>
+                    <input type="text" name="imie" id="imie" placeholder="Wpisz imię..." required><br>
+                    <input type="text" name="nazwisko" id="nazwisko" placeholder="Wpisz nazwisko..." required><br>
+                    <button type="button" id="next1">Następna karta</button>
+                </div>
+        
+                <div id="form2" class="form-block">
+                    <h2>Dane kontaktowe</h2>
+                    <input type="email" id="email" placeholder="Twój e-mail..." required><br>
+                    <input type="tel" id="telefon" placeholder="Twój numer telefonu..." required><br>
+                    <button type="button" id="next2">Następna karta</button>
+                </div>
+        
+                <div id="form3" class="form-block">
+                    <h2>Hasło do logowania</h2>
+                    <input type="password" id="haslo1" placeholder="Podaj hasło" required><br>
+                    <input type="password" id="haslo2" placeholder="Powtórz hasło" required><br>
+                    <button type="button" id="submit">Zatwierdź</button>
+                </div>
+            </form>
+            <script src="skrypt.js"></script>
+        </main>             
+
+        <div id="stopka1">
+            <video controls><source src="motyl.mp4" type="video/mp4">Przeglądarka nie obsługuje tego formatu.</video>
+        </div>
+
+        <div id="stopka2">
+            <h3>Plan konferencji</h3>
+            <table>
+                <tr>
+                    <td>9:00 - 12:00</td>
+                    <td>Pielęgnacja roślin</td>
+                </tr>
+                <tr>
+                    <td>13:00 - 15:00</td>
+                    <td>Targi kwiatowe</td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="stopka3">
+            <p><a href="https://kwiaty.pl/">Internetowa kwiaciarnia</a></p>
+        </div>
+
+        <div id="stopka4">
+            <p>Stronę wykonał: <a href="https://useme.com/pl/roles/contractor/odyn404error,461613/" target="_blank" style="text-decoration: none;color: unset;">Odyn404</a></p>    
+        </div>
+    </body>
+</html>
